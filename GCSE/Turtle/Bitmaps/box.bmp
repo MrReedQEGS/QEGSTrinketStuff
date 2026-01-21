@@ -1,0 +1,19 @@
+#Student name : Mr Reed
+#Add your own pixel data to this "bitmap" file with any colours that you want.
+#My colour list is part of the image "meta data"...similar to how a real bitmap works.
+col, 00, red, 255, 0, 0
+col, 01, blue, 0, 0, 255
+col, 10, myGreenColour, 50, 168, 82
+col, 11, brightYellow, 242, 240, 27
+#A "pix" variable is used to say how wide in pixels this image is.
+pix,4
+#This variable says how big each pixel should be
+pxsize,8
+#Box.bmp
+00,00,00,00
+11,10,10,11
+11,10,10,11
+01,01,01,01
+
+
+
